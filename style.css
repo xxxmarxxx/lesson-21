@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d95962;
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 20px;
+    font-size: 30px;
+    color: #dfeae6;
+    text-shadow: rgb(6, 21, 63) 2px 0 2px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: solid 2px #AD2210;
+    border-radius: 30px;
+    font-size: 24px;
+    color: #1d575c;
+    background-color: #edca89;
+  }
